@@ -1,33 +1,33 @@
 Electricity Billing System
 Table of Contents
-Overview
-Features
-Technologies Used
-Installation
-Usage
-Contributing
-License
-Contact
+Overview
+Features
+Technologies Used
+Installation
+Usage
+Contributing
+License
+Contact
 Overview
 The Electricity Billing System is a software application designed to automate the process of electricity bill generation and management. This system helps electricity providers efficiently manage customer billing, payments, and usage tracking.
 Features
-User registration and authentication
-Customer account management
-Automated bill calculation based on electricity consumption
-Online bill payment integration
-Usage history and bill tracking
-Admin dashboard for managing users and bills
-Report generation for usage statistics
+User registration and authentication
+Customer account management
+Automated bill calculation based on electricity consumption
+Online bill payment integration
+Usage history and bill tracking
+Admin dashboard for managing users and bills
+Report generation for usage statistics
 Technologies Used
-Frontend:Java
-Backend: Java
-Database:  MySQL
-Authentication: JWT or OAuth
-Payment Integration: PayPal/Stripe/Razorpay (optional)
+Frontend:Java
+Backend: Java
+Database:  MySQL
+Authentication: JWT or OAuth
+Payment Integration: PayPal/Stripe/Razorpay (optional)
 Installation
 Prerequisites
-Node.js and npm installed
-MongoDB set up (or any other database you prefer)
+Node.js and npm installed
+MongoDB set up (or any other database you prefer)
 Steps to Install
 1.Clone the repository:
 2.git clone https://github.com/your-username/electricity-billing-system.git
@@ -41,10 +41,10 @@ Steps to Install
 10.Run the server:
 11.npm start
 Usage
-Register/Login as a customer or admin
-View electricity usage and billing history
-Generate and pay electricity bills
-Admin can manage users and generate reports
+Register/Login as a customer or admin
+View electricity usage and billing history
+Generate and pay electricity bills
+Admin can manage users and generate reports
 SQL 
 
 drop database bills;
@@ -154,4 +154,4 @@ Contributions are welcome! Please follow these steps:
 5.Open a pull request
 Contact
 For any queries, reach out via:
-Email:kirtikushwaha000@gmail.com
+Email:kirtikushwaha000@gmail.com
